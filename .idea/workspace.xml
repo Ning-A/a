@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f2ab837-9e87-4efd-8ef5-660e1576dad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/itcast-haoke-manage-api-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/java/cn/itcast/haoke/dubbo/api/DubboApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/java/cn/itcast/haoke/dubbo/api/controller/HouseResourcesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/java/cn/itcast/haoke/dubbo/api/service/HouseResourcesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/target/classes/cn/itcast/haoke/dubbo/api/DubboApiApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/target/classes/cn/itcast/haoke/dubbo/api/controller/HouseResourcesController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/target/classes/cn/itcast/haoke/dubbo/api/service/HouseResourcesService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-bubbo-server-generator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-bubbo-server-generator/src/main/java/cn/itcast/haoke/generator/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-bubbo-server-generator/target/classes/cn/itcast/haoke/generator/CodeGenerator$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-bubbo-server-generator/target/classes/cn/itcast/haoke/generator/CodeGenerator$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-bubbo-server-generator/target/classes/cn/itcast/haoke/generator/CodeGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/src/main/java/cn/itcast/haoke/dubbo/server/pojo/BasePojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/src/main/java/cn/itcast/haoke/dubbo/server/pojo/HouseResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/target/classes/cn/itcast/haoke/dubbo/server/pojo/BasePojo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/target/classes/cn/itcast/haoke/dubbo/server/pojo/HouseResources.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/java/cn/itcast/haoke/dubbo/server/DubboProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/java/cn/itcast/haoke/dubbo/server/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/java/cn/itcast/haoke/dubbo/server/mapper/HouseResourcesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/target/classes/cn/itcast/haoke/dubbo/server/DubboProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/target/classes/cn/itcast/haoke/dubbo/server/config/MybatisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itcast-haoke-manage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/house_resources/TbHouseResourcesMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,7 +38,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,6 +69,9 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,9 +99,9 @@
         <option value="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/java/cn/itcast/haoke/dubbo/api/service/HouseResourcesService.java" />
         <option value="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/java/cn/itcast/haoke/dubbo/api/controller/HouseResourcesController.java" />
         <option value="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/java/DubboApiApplication.java" />
-        <option value="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/java/cn/itcast/haoke/dubbo/server/service/impl/HouseResourcesServiceImpl.java" />
         <option value="$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -162,6 +143,77 @@
             <path>
               <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
               <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-api-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-api-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-api-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-api-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources-dubbo-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources-dubbo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources-dubbo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-haoke-manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-haoke-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast-haoke-manage-dubbo-server-house-resources-dubbo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,12 +333,20 @@
       <workItem from="1564983466059" duration="3923000" />
       <workItem from="1564988838734" duration="2334000" />
       <workItem from="1564995219739" duration="253000" />
-      <workItem from="1564995498193" duration="3944000" />
+      <workItem from="1564995498193" duration="5692000" />
     </task>
+    <task id="LOCAL-00001" summary="rr">
+      <created>1565007337710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565007337710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37820000" />
+    <option name="totallyTimeSpent" value="39568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1935" height="1175" extended-state="6" />
@@ -328,6 +388,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rr" />
+    <option name="LAST_COMMIT_MESSAGE" value="rr" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -471,13 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/src/main/java/cn/itcast/haoke/dubbo/server/pojo/HouseResources.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -542,8 +599,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="285">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast-haoke-manage-api-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
